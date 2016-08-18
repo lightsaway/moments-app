@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "StatusMenuController.photoClicked(NSMenuItem) -&gt; ():StatusMenuController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "StatusMenuController.(photoClicked(NSMenuItem) -&gt; ()).(closure #1):StatusMenuController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
